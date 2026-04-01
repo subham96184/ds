@@ -1,4 +1,4 @@
-package org.example;
+package org.patterns;
 
 public class InvertedRightAngleTriangle {
     public static void main(String[] args) {

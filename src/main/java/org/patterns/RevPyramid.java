@@ -1,4 +1,4 @@
-package org.example;
+package org.patterns;
 
 public class RevPyramid {
     public static void main(String[] args) {

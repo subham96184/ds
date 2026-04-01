@@ -1,4 +1,4 @@
-package org.example;
+package org.patterns;
 
 public class Pyramid {
     public static void main(String[] args) {

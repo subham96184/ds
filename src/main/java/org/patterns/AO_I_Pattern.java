@@ -1,4 +1,4 @@
-package org.example;
+package org.patterns;
 
 public class AO_I_Pattern {
     /*  1
