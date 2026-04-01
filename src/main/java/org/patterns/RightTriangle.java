@@ -1,4 +1,4 @@
-package org.example;
+package org.patterns;
 
 public class RightTriangle {
     public static void main(String[] args) {
